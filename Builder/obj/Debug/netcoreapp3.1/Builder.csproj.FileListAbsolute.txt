@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\HP\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\HP\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\HP\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\HP\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\HP\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\HP\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\HP\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\HP\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
