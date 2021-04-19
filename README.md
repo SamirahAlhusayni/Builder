@@ -1,3 +1,3 @@
-Example of String builder:
+C# - StringBuilder
 
-Student Card
+I built a Student Card as an example
